@@ -1,7 +1,7 @@
 # record-audio-and-annotate
 A html file to record audio with the browsers built-in microphone functions. Also make timestamped notes for later review
 
-[Demo](https://trey.app/recorder.html)
+[Demo](https://trey.app/recorder/) or download "recorder.html" and use offline
 
 30min recording = 28 MB
 
